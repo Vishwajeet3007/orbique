@@ -58,7 +58,7 @@ def scrape_birdlife_international():
         print(f"Failed to fetch the page. Status code: {response.status_code}")
         return []
 
-def save_data_to_file(data, filename="bird_data.txt"):
+def save_data_to_file(data, filename="15-OCT-2025/bird_data.txt"):
     with open(filename, "w") as file:
         for item in data:
             file.write(item + "\n")
