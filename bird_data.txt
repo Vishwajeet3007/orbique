@@ -1,0 +1,3 @@
+Bird Link: https://www.birdlife.org/birds/ - Text: Birds
+Bird Link: https://www.birdlife.org/regions-and-partners/ - Text: The BirdLife Partners
+Bird Link: https://bsky.app/profile/birdlifeglobal.bsky.social - Text: BirdLife's Bluesky
