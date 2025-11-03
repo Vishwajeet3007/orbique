@@ -1,0 +1,18 @@
+Fruit Name : Apple 
+Rate (₹)    : 100.00
+Quantity    : 1
+Total Cost  : ₹100.00
+Benefits    : Good for health
+----------------------------------------
+Fruit Name : Orange 
+Rate (₹)    : 90.00
+Quantity    : 2
+Total Cost  : ₹180.00
+Benefits    : C
+----------------------------------------
+Fruit Name : Mango
+Rate (₹)    : 100.00
+Quantity    : 5
+Total Cost  : ₹500.00
+Benefits    : Good
+----------------------------------------
