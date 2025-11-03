@@ -1,6 +1,6 @@
 # -----------------------------------------------
 # Program: Fruit Information Saver
-# Author : [Your Name]
+# Author : Vishwajeet Kumar
 # Course : B.Tech (4th Year)
 # Description:
 #   This program stores details about fruits such as
