@@ -8,12 +8,12 @@ data = {
 }
 
 # --- Pickling: Save object to a file ---
-with open("data.pkl", "wb") as file:
+with open("03_Nov_2025/data.pkl", "wb") as file:
     pickle.dump(data, file)
 print("Data has been pickled (saved to data.pkl).")
 
 # --- Unpickling: Load object back from file ---
-with open("data.pkl", "rb") as file:
+with open("03_Nov_2025/data.pkl", "rb") as file:
     loaded_data = pickle.load(file)
 print("Data has been unpickled (loaded from data.pkl).")
 

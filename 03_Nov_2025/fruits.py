@@ -9,7 +9,7 @@
 # -----------------------------------------------
 
 def save_fruit_info():
-    filename = "fruits_info.txt"
+    filename = "03_Nov_2025/fruits_info.txt"
     
     print("\n--- Fruit Information Entry ---")
     n = int(input("Enter number of fruits to record: "))
@@ -40,7 +40,7 @@ def save_fruit_info():
 
 
 def read_fruit_info():
-    filename = "fruits_info.txt"
+    filename = "03_Nov_2025/fruits_info.txt"
     try:
         print("\n--- Saved Fruit Details ---\n")
         with open(filename, "r") as file:
